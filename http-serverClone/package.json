@@ -1,0 +1,14 @@
+{
+  "name": "http-serverClone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "pat",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
